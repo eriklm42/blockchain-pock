@@ -46,8 +46,3 @@ It takes a two optional parameters which are
 npm start [difficulty = 4] [numberOfBlocks = 10]
 ```
 
-## Forseeable To-Do
-
-- [ ] Distributed network
-- [ ] Refactor to make blocks a class instead of an interface so it can have internal methods to calculate hashes and nonces
-- [ ] Add small graph visualization frontend
