@@ -1,6 +1,6 @@
 # TypeScript Blockchain
 
-> 🇺🇸 A simple implementation of blockchain in TypeScript.
+> A simple implementation of blockchain in TypeScript.
 
 ## Description
 
